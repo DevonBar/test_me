@@ -41,7 +41,7 @@ const TestimonialSection = () => {
             {[1, 2, 3].map((i) => (
               <li key={i} className="splide__slide flex justify-center">
                 <Image
-                  src="/date-international-logo.webp"
+                  src="/FB_IMG_1750943141457.jpg"
                   alt={`image0${i}`}
                   height={300}
                   width={300}
