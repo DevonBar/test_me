@@ -16,33 +16,33 @@ const FooterSection = () => {
         <div className="text-center">
           <ul className="text-decoration-none text-[#660c0c] font-bold text-lg flex justify-center items-center flex-row gap-2 my-6">
             <li className="px-3 py-1 bg-base-200 shadow rounded-full">
-              <a class="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
-                <i class="fa-brands fa-facebook-f" aria-hidden="true"></i>
+              <a className="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
+                <i className="fa-brands fa-facebook-f" aria-hidden="true"></i>
               </a>
             </li>
             <li className="px-3 py-1 bg-base-200 shadow rounded-full">
-              <a class="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
-                <i class="fa-brands fa-twitter" aria-hidden="true"></i>
+              <a className="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
+                <i className="fa-brands fa-twitter" aria-hidden="true"></i>
               </a>
             </li>
             <li className="px-3 py-1 bg-base-200 shadow rounded-full">
-              <a class="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
-                <i class="fa-brands fa-instagram" aria-hidden="true"></i>
+              <a className="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
+                <i className="fa-brands fa-instagram" aria-hidden="true"></i>
               </a>
             </li>
             <li className="px-3 py-1 bg-base-200 shadow rounded-full">
-              <a class="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
-                <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+              <a className="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
+                <i className="fa-brands fa-youtube" aria-hidden="true"></i>
               </a>
             </li>
             <li className="px-3 py-1 bg-base-200 shadow rounded-full">
-              <a class="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
-                <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+              <a className="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
+                <i className="fa-brands fa-linkedin" aria-hidden="true"></i>
               </a>
             </li>
             <li className="px-3 py-1 bg-base-200 shadow rounded-full">
-              <a class="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
-                <i class="fa-brands fa-tiktok" aria-hidden="true"></i>
+              <a className="d-flex text-decoration-none align-items-center" target="_blank" href="https://www.facebook.com" aria-label="facebook page link">
+                <i className="fa-brands fa-tiktok" aria-hidden="true"></i>
               </a>
             </li>
           </ul>
